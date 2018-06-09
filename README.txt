@@ -4,7 +4,7 @@ Supported on UBUNTU & based distros.
 Root permissions are required.
 
 Fire up terminal and run the following
-    git clone
+    git clone https://github.com/nitinnarwal/wifi_script.git
     cd wifi_script
     chmod +x ni_three.sh
     sudo ./nithree.sh
