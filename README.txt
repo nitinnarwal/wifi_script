@@ -6,6 +6,6 @@ Fire up terminal and just run the following:
     git clone https://github.com/nitinnarwal/wifi_script.git
     cd wifi_script
     chmod +x ni_three.sh
-    sudo ./nithree.sh
+    sudo ./ni_three.sh
     
 Voila!
