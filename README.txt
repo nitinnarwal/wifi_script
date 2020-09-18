@@ -1,5 +1,3 @@
-Diclaimer: Any actions and/or activities related to the script is solely your responsibility. I would not be held responsible for any individual misusing it to break the law.
-
 Supported on UBUNTU & based distros.
 
 Fire up terminal and just run the following:
